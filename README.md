@@ -16,4 +16,5 @@
 
 
 
-#RaspberryPI #DynamoDB #IoT
+#RaspberryPI #DynamoDB #IoT #OpenCV #Yolov5
+
