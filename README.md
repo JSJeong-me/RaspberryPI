@@ -10,7 +10,7 @@
     
     3. Machine Learning(기계학습)을 통한 Predictive Analytics(예측분석) 방법 학습
     
-    그리고, Python 프로그래밍, AWS IoT Core, DynamoDB, sagemaker 사용방법을 학습
+    그리고, Python 프로그래밍, openCV, AWS IoT Core, DynamoDB, sagemaker 사용방법을 학습
 
 
 
