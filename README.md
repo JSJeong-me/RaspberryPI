@@ -13,12 +13,12 @@
     
     2. 다양한 Machine Data(온도, 습도, 영상 등)의 특성 및 처리 방법 학습
     
-    3. openCV를 활용한 영상 처리 및 Machine Learning(기계학습)을 통한 Predictive Analytics(예측분석) 방법 학습
+    3. openCV를 활용한 영상 처리 및 Machine Learning(기계학습)과 Predictive Analytics(예측분석) 방법 학습
     
     그리고, Python 프로그래밍, openCV, AWS IoT Core, DynamoDB, sagemaker 사용방법을 학습
 
 
-### 강사: 정 준 수 / 한성대학교 (jsjeong@hansung.ac.kr)
+### 강사: 정 준 수 겸임교수 / 한성대학교 (jsjeong@hansung.ac.kr)
 ###
 
 
