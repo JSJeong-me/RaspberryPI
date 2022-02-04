@@ -1,8 +1,10 @@
 # RaspberryPI
 
-### 프로그램 제목: Raspberry PI를 사용한 AWS IoT 연동 및 Machine Learning 응용 학습 과정
+### Raspberry PI를 사용한 AWS IoT 연동 및 Machine Learning 응용 학습 과정
+
 
 ![raspberry](https://user-images.githubusercontent.com/54794815/151466736-02defe4e-f82f-45c4-8671-cb990912402c.png)
+
 
 ### 과정 목표
 
@@ -15,7 +17,7 @@
     그리고, Python 프로그래밍, openCV, AWS IoT Core, DynamoDB, sagemaker 사용방법을 학습
 
 
-
+### 강사: 정 준 수 / 한성대학교 (jsjeong@hansung.ac.kr)
 
 
 #RaspberryPI #DynamoDB #IoT #OpenCV #Yolov5
