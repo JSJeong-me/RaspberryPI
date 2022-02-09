@@ -23,6 +23,11 @@
     https://projects.raspberrypi.org/en/projects/sense-hat-data-logger
     
     
+    Creating a temperature graph
+    
+    https://projects.raspberrypi.org/en/projects/weather-logger/2
+    
+    
     Light up Sense HAT LEDs
     Use the Sense HAT joystick
     Use 2D lists to represent a screen
