@@ -18,6 +18,11 @@
     그리고, Python 프로그래밍, openCV, AWS IoT Core, DynamoDB, sagemaker 사용방법을 학습
 
 
+https://docs.google.com/spreadsheets/d/1DVUDXE2jYt3P3JfIjdC3yimv6AdpC9GY6YMiBaBB_Ls/edit?usp=sharing
+
+
+
+
 ### 강사: 정 준 수 겸임교수 / 한성대학교 (jsjeong@hansung.ac.kr)
 ###
 
