@@ -18,7 +18,9 @@
     그리고, Python 프로그래밍, openCV, AWS IoT Core, DynamoDB, sagemaker 사용방법을 학습
 
 
-https://docs.google.com/spreadsheets/d/1DVUDXE2jYt3P3JfIjdC3yimv6AdpC9GY6YMiBaBB_Ls/edit?usp=sharing
+
+![curriculum](https://user-images.githubusercontent.com/54794815/153277214-cd212a04-0ff9-46d6-b2e8-11ac155046bc.png)
+
 
 
 
