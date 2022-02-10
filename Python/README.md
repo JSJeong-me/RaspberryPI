@@ -4,15 +4,13 @@
   ###   냉장고에서 맥주 꺼내듯 원하는 데이터만을 가져오고 싶은데요!
 
 
-  Virtual Environment
 
-  Data Types
+      Data Types
 
-  Indexing
-  
-  sys.py
+      Indexing
 
-  https://projects.raspberrypi.org/en/projects/turtle-race
+
+  예제) https://projects.raspberrypi.org/en/projects/turtle-race
   
   
   ### Python 교안 Download
