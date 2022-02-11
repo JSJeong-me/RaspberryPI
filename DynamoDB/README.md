@@ -1,5 +1,10 @@
 ### DynamoDB
 
+    Boto3 : AWS SDK for Python (Boto3) to create, configure, and manage AWS services. The SDK provides an object-oriented API as well as low-level access to AWS services.
+    
+    https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
+    
+
     Python Tutorial  ---> https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.Python.html
     
     
