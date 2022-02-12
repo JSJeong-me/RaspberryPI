@@ -1,3 +1,11 @@
+### RaspberryPI Camera 연결 및 테스트
+
+    https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/1
+    
+    VNC 터미널에서 Thonny IDE로 camera01.py 실행
+
+
+
 ### openCV
 
     raspberry$ sudo nano /etc/dphys-swapfile   --> CONF_SWAPSIZE=2048
