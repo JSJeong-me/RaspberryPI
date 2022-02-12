@@ -22,7 +22,10 @@
     https://www.raspberrypi.com/documentation/accessories/camera.html
     
     
-    https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
+    Camera 설치: https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
+    
+    Video Stream 테스트: https://appuals.com/how-to-perform-video-streaming-using-raspberry-pi
+    
     
     
     openCV install
