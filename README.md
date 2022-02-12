@@ -22,7 +22,7 @@
 ![curriculum](https://user-images.githubusercontent.com/54794815/153277214-cd212a04-0ff9-46d6-b2e8-11ac155046bc.png)
 
 
-### AWS IAM
+### AWS IAM (AWS Log In)
 
     Download(내려 받아 주세요!): https://url.kr/tsfwcq
 
