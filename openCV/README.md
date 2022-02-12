@@ -1,6 +1,6 @@
 ### openCV
 
-    sudo nano /etc/dphys-swapfile   --> CONF_SWAPSIZE=2048
+    raspberry$ sudo nano /etc/dphys-swapfile   --> CONF_SWAPSIZE=2048
     
     VNC 설정 방법
     
