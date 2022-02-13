@@ -28,7 +28,7 @@
 
 
 
-### 강사: 정 준 수 교수 / 한성대학교 (jsjeong@hansung.ac.kr)
+### 강사: 정 준 수 / 한성대학교 (jsjeong@hansung.ac.kr)
 ###
 
 
