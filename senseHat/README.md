@@ -1,3 +1,10 @@
+
+
+### Camera Installation
+
+    https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
+
+
 ### senseHat
 
     Getting started with the Sense HAT
