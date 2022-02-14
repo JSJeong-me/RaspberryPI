@@ -1,3 +1,10 @@
+  ###   RaspberryPI Python version 확인 방법
+  
+        $ ls -l /usr/bin/python*
+        $ python --version
+        $ python3 --version
+        
+  
   ###
   ###   Keyboard에는 괄호의 종류가 몇 가지 있죠?
 
